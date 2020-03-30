@@ -74,10 +74,16 @@ That's my special backstory about my ongoing journey of becoming a Software Engi
 at home and feel treated alot better than what i had experienced in college years prior.
 
 
-No irate instructors, no cruelty. Just like-minded souls who will help each with every assignment no matter how complex the assignment may be.
+No irate instructors, no cruelty. 
+
+Just like-minded souls who will help each with every assignment no matter how complex the 
+assignment may be.
+
 
 
 I'll see you again soon!
+
+
 
 
 ~Ashleigh
