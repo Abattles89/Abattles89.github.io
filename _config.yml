@@ -1,11 +1,11 @@
 # Site settings
 author: Ashleigh D Battles
-title: 
+title: Confessions of a tech nerd
 header-img: img/home-bg.png
 email: blueangel365@gmail.com
 copyright_name: Ashleigh D Battles
 description: > # this means to ignore newlines until "baseurl:"
-  
+  a Quirky Techie
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Abattles89
