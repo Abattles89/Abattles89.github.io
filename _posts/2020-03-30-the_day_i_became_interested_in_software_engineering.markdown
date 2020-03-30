@@ -10,7 +10,7 @@ permalink:  the_day_i_became_interested_in_software_engineering
 
 *"Why did you decide to learn software development?"*
 
-   This question has popped up in many ways because I had filled this question with so many 
+  This question has popped up in many ways because I had filled this question with so many 
 answers. There were answers that were *easily* responsive and others that were hard to 
 come by (i.e.* Remember*).
 
@@ -21,7 +21,7 @@ in Computer Coding and Technology:
 
 
 
-   For many years, I have been having a knack for computers. I used to be an art geek in my
+  For many years, I have been having a knack for computers. I used to be an art geek in my
 teenage years. I used to obsess over artworks paints colors and drawing styles. Until the
 day I got on my Mom's computer to surf the web to find more artwork to be inspired by. Not 
 only that, but then I had started to wonder how programs work:
@@ -56,13 +56,13 @@ heartbreak exacerbated my mental health altogether.
 changed everything. My mental health was becoming stabilized and I have eventually recovered
 from my trauma that happened to me long ago.
 
-   It wasn't until the Fall of 2019, I had noticed an ad on Instagram about an opportunity to become 
+ It wasn't until the Fall of 2019, I had noticed an ad on Instagram about an opportunity to become 
 a Software Engineer. It was Career Karma. I was intrigued at first, but I was more focused on my 
 work and what need to be done over there. A couple of weeks later, after seing the exact 
 same Career Karma ads repeatedly, I relented and downloaded their app. 
 
 
-   Days later, I got an email for the CEO of Career Karma informing me about an upcoming interview.
+Days later, I got an email for the CEO of Career Karma informing me about an upcoming interview.
 I was so surprised on how quick they were to respond to my information request. Nonetheless, I was 
 excited to restart my ultimate dream of becoming a Software Engineer. After finishing many interviews, 
 completing the 21-day challenge, Meeting with Job Counselors and interacting with like-minded souls,
